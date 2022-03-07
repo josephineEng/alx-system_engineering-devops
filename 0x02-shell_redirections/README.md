@@ -1,2 +1,1 @@
-#!/bin/bash
-0-hello_world file contains command for printing hello, world
+1-confused_smiley, i dont know what you are all about 
